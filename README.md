@@ -30,3 +30,4 @@ SES_SERVER                      0               08-29 17:36:29  arn:aws:iam::xxx
 
 Once all values have been defined as either secret, or visible, they will be
 placed in a secrets.yaml or visibles.yaml file respectively.
+
